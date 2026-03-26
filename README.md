@@ -112,6 +112,10 @@ cargo kani setup
 cargo kani
 ```
 
+## Ecosystem
+
+- **[Position NFT Wrapper](https://github.com/dcccrypto/percolator-nft)** — Transferable Token-2022 NFTs representing open perpetual futures positions. External wrapper program; no changes to the core engine. See [docs/position-nft.md](docs/position-nft.md).
+
 ## References
 
 - Tarun Chitra, *Autodeleveraging: Impossibilities and Optimization*, arXiv:2512.01112, 2025. https://arxiv.org/abs/2512.01112
