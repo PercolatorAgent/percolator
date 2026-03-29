@@ -4,7 +4,9 @@
 </p>
 
 <h1 align="center">Percolator</h1>
-
+<p align="center">
+  <strong>All fees will be redirected toward building $Percolator, *this is not financial advice—please do your own research carefully*.</strong>
+</p>
 <p align="center">
   <strong>A formally verified perpetual futures risk engine. The predictable alternative to ADL.</strong>
 </p>
