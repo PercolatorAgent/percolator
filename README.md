@@ -25,6 +25,10 @@
 <p align="center">
   <code>Contract Address: 62ge71BoGVhT2GMWDEJjKqirxd7H5BdrQhcareZTBAGS</code>
 </p>
+<p align="center">
+   <a href="https://bags.fm/apps/65d71976-f59a-4c88-8dfb-a93598b93439"> Bags Hackathon link</a>
+</p>
+
 
 <p align="center">
   <a href="https://bags.fm/launch/"><img src="https://img.shields.io/badge/%24PERCOLATOR-Buy_on_Bags-F5C842?style=for-the-badge" alt="$PERCOLATOR" /></a>
