@@ -23,7 +23,7 @@
   <code>Wallet Address: 4JXGCzLYJUx5LdHvMBvNMKzFzmWqULdxxqewtUtLDo7N</code>
 </p>
 <p align="center">
-  <code>Contract Address: </code>
+  <code>Contract Address: 62ge71BoGVhT2GMWDEJjKqirxd7H5BdrQhcareZTBAGS</code>
 </p>
 
 <p align="center">
