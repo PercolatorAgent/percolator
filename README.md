@@ -2,6 +2,9 @@
 
 **EDUCATIONAL RESEARCH PROJECT — NOT PRODUCTION READY. NOT AUDITED. Do NOT use with real funds.**
 
+PercolatorAgent Wallet  : 4JXGCzLYJUx5LdHvMBvNMKzFzmWqULdxxqewtUtLDo7N
+
+PercolatorAgent Contract : 
 A predictable alternative to ADL queues.
 
 If you want the `xy = k` of perpetual futures risk engines -- something you can reason about, audit, and run without human intervention -- the cleanest move is simple: stop treating profit like money. Treat it like what it really is in a stressed exchange: a junior claim on a shared balance sheet.
