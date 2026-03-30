@@ -5,7 +5,7 @@
 
 <h1 align="center">Percolator</h1>
 <p align="center">
-  <strong>All fees will be redirected toward building $Percolator, *this is not financial advice—please do your own research carefully*.</strong>
+  <strong>All fees will be redirected to deploy the $Bunker coin, and both projects will participate in the Bagshackathon.</strong>
 </p>
 <p align="center">
   <strong>A formally verified perpetual futures risk engine. The predictable alternative to ADL.</strong>
@@ -14,8 +14,7 @@
 <p align="center">
   <a href="https://x.com/toly"><img src="https://img.shields.io/badge/%40toly-verified-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="@toly verified" /></a>
   <a href="https://github.com/aeyakovenko"><img src="https://img.shields.io/badge/aeyakovenko-verified-181717?style=flat-square&logo=github&logoColor=white" alt="aeyakovenko verified" /></a>
-  <a href="https://github.com/percolatorlabs"><img src="https://img.shields.io/badge/percolatorlabs-verified-181717?style=flat-square&logo=github&logoColor=white" alt="percolatorlabs verified" /></a>
-  <img src="https://img.shields.io/badge/Solana_Team-verified-9945FF?style=flat-square&logo=solana&logoColor=white" alt="Solana Team verified" />
+ <img src="https://img.shields.io/badge/Solana_Team-verified-9945FF?style=flat-square&logo=solana&logoColor=white" alt="Solana Team verified" />
   <img src="https://img.shields.io/badge/Rust-stable-DEA584?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/Kani-158_proofs-4CAF50?style=flat-square" alt="Kani Proofs" />
   <img src="https://img.shields.io/badge/License-Apache_2.0-blue?style=flat-square" alt="Apache 2.0" />
@@ -29,11 +28,6 @@
 </p>
 <p align="center">
    <a href="https://bags.fm/apps/65d71976-f59a-4c88-8dfb-a93598b93439"> Bags Hackathon link</a>
-</p>
-
-
-<p align="center">
-  <a href="https://bags.fm/62ge71BoGVhT2GMWDEJjKqirxd7H5BdrQhcareZTBAGS"><img src="https://img.shields.io/badge/%24PERCOLATOR-Buy_on_Bags-F5C842?style=for-the-badge" alt="$PERCOLATOR" /></a>
 </p>
 ----
 A predictable alternative to ADL queues.
