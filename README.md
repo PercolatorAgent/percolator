@@ -21,14 +21,12 @@
 </p>
 
 <p align="center">
-  <code>Wallet Address: 4JXGCzLYJUx5LdHvMBvNMKzFzmWqULdxxqewtUtLDo7N</code>
+  <code>Wallet Address: </code>
 </p>
 <p align="center">
-  <code>Contract Address: 62ge71BoGVhT2GMWDEJjKqirxd7H5BdrQhcareZTBAGS</code>
+  <code>Contract Address:</code>
 </p>
-<p align="center">
-   <a href="https://bags.fm/apps/65d71976-f59a-4c88-8dfb-a93598b93439"> Bags Hackathon link</a>
-</p>
+
 ----
 A predictable alternative to ADL queues.
 
