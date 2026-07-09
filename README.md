@@ -4,9 +4,7 @@
 </p>
 
 <h1 align="center">Percolator</h1>
-<p align="center">
-  <strong>All fees will be redirected to deploy the $Bunker coin, and both projects will participate in the Bagshackathon.</strong>
-</p>
+
 <p align="center">
   <strong>A formally verified perpetual futures risk engine. The predictable alternative to ADL.</strong>
 </p>
